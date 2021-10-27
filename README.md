@@ -2,7 +2,7 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruisantos04&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruisantos04&layout=dark&langs_count=7&theme=dark"/>
-  <img alt="Rui" height="auto" style="border-radius:10px;" src="https://avatars.githubusercontent.com/u/65464169?v=4">
+  <img align="right" alt="Rui" height="200" style="border-radius:10px;" src="https://avatars.githubusercontent.com/u/65464169?v=4">
 </div>
   
 
