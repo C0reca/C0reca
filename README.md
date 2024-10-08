@@ -1,7 +1,6 @@
 ## Hi, my name is Rui Santos
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=c0reca&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0reca&layout=dark&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
